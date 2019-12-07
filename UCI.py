@@ -35,7 +35,6 @@ class UCI:
                 inputPrint(board)
 
             elif inputString == "quit":
-                print("yooyoyo")
                 break
 
 
